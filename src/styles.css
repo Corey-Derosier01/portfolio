@@ -1,0 +1,179 @@
+section {
+    height: 975px;
+    background-color: darkslategrey;
+    border-color: black 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+}
+.favorites {
+    background-color: darkgreen;
+    height: 100vh;
+    color: white;
+    font-size: 40px;
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+footer {
+    height: 350px;
+    background-color: darkslategrey;
+    border-radius: 15px;
+    margin-top: -25px;
+    color: white;
+    
+}
+nav {
+    margin-left: -250px;
+    font-size: 125px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-between;
+    font-size: 30px;
+}
+.Li-color {
+    color: skyblue
+}
+
+li {
+    width: 0px;
+    text-decoration: none;
+    
+
+}
+
+h3 {
+    margin-right: 100px;
+    font-size: 32px;
+    font-weight: 300;
+    margin-top: -50px;
+    margin-left: -295px;
+    color: white;
+}
+
+.favorite-text {
+    display: flex;
+    margin-left: 400px;
+    margin-top: -250px;
+}
+.button {
+    width: 175px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: lightskyblue;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+    margin-top: 263px;
+    margin-left: -275px;
+    
+    
+}
+.favorite-area {
+    background-color: darkslategrey;
+display: flex;
+height: 20%;
+justify-content: space-between;
+align-items: center;
+}
+
+.button:hover{
+    background-color: coral;
+
+}
+.button:active {
+    background-color: darkorange;
+    color: black; 
+}
+.socials {
+    display: flex;
+    margin-top: 340px;
+    margin-left: -300px;
+    margin-right: 25px;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+}
+.social {
+    padding: 15px;;
+}
+.logo{
+    border-radius:  30px;
+    padding: 10px;
+   margin-right: 100px;
+   margin-bottom: -20px;
+}
+
+
+.information {
+    margin-top:  0px;
+    font-size: 32px;
+    color: white;
+
+}
+.h2-color {
+    padding: 5px;
+    color: white;
+    
+}
+.h2{
+    font-size: 35px;
+    color: white;
+}
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+.sub-section-alternate {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.subtext {
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    
+}
+.project-header {
+    margin-left: 100px;
+    margin-bottom: 30px;
+    margin-top: -15px;
+}
+.project-card {
+    width: 300px;
+    height: 600px;
+    box-shadow: 5px 5px 20px white;
+}
+.project-container {
+    display: flex;
+    justify-content: space-around
+}
+.project-image {
+    margin-top: 25px;
+    width: 250px;
+    border-radius: 125px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.Project1 {
+    height: 300px;
+    width: 275px;
+}
+.Project2 {
+    height: 300px;
+    width: 275px;
+}
+.project-link {
+    
+    color: skyblue
+}
